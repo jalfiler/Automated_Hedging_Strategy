@@ -1,6 +1,4 @@
-# Automated_Hedging_Strategy
-
-### XYZ Inc. Risk Portfolio Time Series
+# Risk Portfolio Time Series
 
 This repository contains the time series data for XYZ Inc.'s risk portfolio. The risk portfolio includes various assets and currencies. The data is organized into separate CSV files for each asset or currency.
 
